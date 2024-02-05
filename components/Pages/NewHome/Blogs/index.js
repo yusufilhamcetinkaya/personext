@@ -28,7 +28,7 @@ export default function Blogs({
     return () => clearInterval(interval)
   }, [currentIndex, data.length])
 
-  return (
+ /* return (
     <NewCard className="px-0" id="blogs" data-name="Blogs">
       <div className="px-9">
         <ComponentHeader title={title} description={description} />
@@ -65,7 +65,7 @@ export default function Blogs({
         />
       </NewChip>
     </NewCard>
-  )
+  ) */
 }
 
 Blogs.propTypes = {

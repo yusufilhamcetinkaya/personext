@@ -7,40 +7,22 @@ import ComponentHeader from '../ComponentHeader'
 const STACKS = [
   [
     {
-      name: 'C#',
-      image: '/img/stacks/csharp-original.svg',
+      name: 'Flutter',
+      image: '/img/stacks/flutter.svg',
     },
     {
-      name: 'DotNet',
-      image: '/img/stacks/dot-net-original-wordmark.svg',
+      name: 'Java',
+      image: '/img/stacks/java.svg',
     },
     {
-      name: 'Javascript',
-      image: '/img/stacks/javascript-original.svg',
-    },
-  ],
-  [
-    {
-      name: 'Linux',
-      image: '/img/stacks/linux-original.svg',
-    },
-    {
-      name: 'Mysql',
-      image: '/img/stacks/mysql-original-wordmark.svg',
-    },
-    {
-      name: 'Php',
-      image: '/img/stacks/php-original.svg',
+      name: 'C',
+      image: '/img/stacks/c.svg',
     },
   ],
   [
     {
-      name: 'Phyton',
-      image: '/img/stacks/python-original.svg',
-    },
-    {
-      name: 'Redis',
-      image: '/img/stacks/redis-original-wordmark.svg',
+      name: 'Firebase',
+      image: '/img/stacks/firebase.svg',
     },
   ],
 ]
@@ -78,14 +60,6 @@ export default function Stacks() {
           ))}
         </div>
       </div>
-
-      <NewChip
-        className="button ml-11 mt-9 inline-block px-4 py-1 text-xs text-primary-6 dark:bg-lineer-nav-link"
-        as="button"
-        onClick={getAllData}
-      >
-        View All Stack
-      </NewChip>
     </NewCard>
   )
 }

@@ -111,10 +111,10 @@ export default function NewAppLayout({ children, user }) {
             </div>
             <div className={classNames(imageMemo && 'ml-2')}>
               <h1 className="text-sm font-semibold dark:text-darkmode-title">
-                Abdullah Önden
+                Yusuf İlham Çetinkaya
               </h1>
               <p className="text-2xs font-normal text-primary-6 dark:text-darkmode-text">
-                Academician Dr. Faculty Member
+                Mobile Application Developer
               </p>
             </div>
           </div>

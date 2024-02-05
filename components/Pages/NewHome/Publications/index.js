@@ -7,7 +7,7 @@ import classNames from 'classnames'
 import Link from 'next/link'
 
 export default function Publications({ data }) {
-  return (
+  /* return (
     <NewCard className="px-0" id="publications" data-name="Publications">
       <div className="px-9">
         <ComponentHeader
@@ -32,5 +32,5 @@ export default function Publications({ data }) {
         </NewChip>
       </Link>
     </NewCard>
-  )
+  )*/
 }
