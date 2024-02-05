@@ -9,16 +9,9 @@ const EXPERIENCES = [
   {
     company: 'Fabrikod',
     description:
-      'Veri bilimi ile işletme literatürü birleştirilerek, kurumlara maksimum kar sağlayan etkin yazılım çözümlerinin üretilmesi sağlanmıştır.',
-    date: '05/2011',
-    position: 'Co Founder',
-  },
-  {
-    company: 'Logo Yazılım',
-    description:
-      'Logo Yazılım (Coretech), Vestel, Electroworld, Schafer, Esse, Finspor, Silverline, G2M gibi kurumsal perakende şirketlerinin e-ticaret girişimlerinin işletmeden müşteriye (B2C) ve işletmeler arası (B2B) alanlarında hizmet verecek yazılımlarının geliştirilmesi sağlanmıştır.',
-    date: '05/2011 - 06/2007',
-    position: 'Software Development Professional',
+      'Developing mobile application using Flutter/Dart technologies.',
+    date: '12/2022 - Present',
+    position: 'Mobile Application Developer',
   },
 ]
 
@@ -28,7 +21,7 @@ export default function Experiences() {
       <div className="px-9">
         <ComponentHeader
           title="Experience"
-          description="Coordination, and problem-solving abilities"
+          description="Software Development abilities"
         />
       </div>
 
@@ -44,7 +37,7 @@ export default function Experiences() {
 
       <NewChip
         as="a"
-        href="/abdullah-onden-cv.pdf"
+        href="/cv.pdf"
         className="button ml-11 mt-9 inline-block px-4 py-1 text-xs text-primary-6 dark:bg-lineer-nav-link"
       >
         Download Resume

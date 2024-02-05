@@ -1,25 +1,22 @@
-username: abdullah
-name: Abdullah
-surname: ÖNDEN
-job: 👋 Hey, I’m @abdullahonden Assistant Profesor at Yalova University and Founder of Fabrikod.
-description: Developing new technologies, teaching to next generation.
-email: 'abdullah.onden@fabrikod.com'
+username: yusufilhamcetinkaya
+name: Yusuf İlham
+surname: Çetinkaya
+job: 👋 Hey, I’m Yusuf İlham Çetinkaya, Mobile Application Developer at Fabrikod.
+description: The greatest innovation is adjust oneself to innovation.
+email: 'yusuficetinkaya@gmail.com'
 image: '/img/profile.jpg'
 available_for_projects: 1
-connectLink: http://www.linkedin.com/in/abdullahonden
+connectLink: http://www.linkedin.com/in/yusufilhamcetinkaya
 socials:
   - name: Twitter
     icon: /img/icons/x.svg
-    url: http://twitter.com/abdullahonden
+    url: http://twitter.com/yusufilhamc
   - name: Instagram
     icon: /img/icons/instagram.svg
-    url: http://instagram.com/abdullahonden
+    url: http://instagram.com/yusufilhamc
   - name: LinkedIn
     icon: /img/icons/linkedin.svg
-    url: http://www.linkedin.com/in/abdullahonden
-  - name: Github
-    icon: /img/icons/facebook.svg
-    url: https://facebook.com/abdullahonden
+    url: http://www.linkedin.com/in/yusufilhamcetinkaya
   - name: Github
     icon: /img/icons/github.svg
-    url: https://apple.com/abdullahonden
+    url: https://github.com/yusufilhamcetinkaya
